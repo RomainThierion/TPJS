@@ -1,0 +1,26 @@
+.style {
+    margin-left: 200px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.image {
+    border: 1px solid;  
+    width: 450px;
+}
+
+.input {
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+
+
